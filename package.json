@@ -82,10 +82,10 @@
     "@cloudflare/think": "0.17.0",
     "@cloudflare/workers-oauth-provider": "^1.2.3",
     "@every-app/sdk": "^0.1.14",
-    "@modelcontextprotocol/client": "2.0.0",
+    "@modelcontextprotocol/client": "2.3.0",
     "@modelcontextprotocol/ext-apps": "2.0.3",
-    "@modelcontextprotocol/sdk": "1.30.0",
-    "@modelcontextprotocol/server": "2.0.0",
+    "@modelcontextprotocol/sdk": "1.32.1",
+    "@modelcontextprotocol/server": "2.3.0",
     "@openrouter/ai-sdk-provider": "^2.9.0",
     "@tanstack/query-core": "^5.103.2",
     "@tanstack/react-form": "^1.33.5",
@@ -153,9 +153,9 @@
     "shadcn": "^4.21.0",
     "tsx": "^4.22.4",
     "typescript": "^5.9.3",
-    "vite": "^7.3.6",
+    "vite": "^7.3.7",
     "vite-tsconfig-paths": "^5.1.4",
-    "vitest": "^4.1.11",
+    "vitest": "^4.1.12",
     "wrangler": "^4.105.0"
   }
 }
